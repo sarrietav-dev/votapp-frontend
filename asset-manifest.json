@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/votapp-frontend/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/votapp-frontend/static/js/main.9bd10ebf.chunk.js",
-    "main.js.map": "/votapp-frontend/static/js/main.9bd10ebf.chunk.js.map",
-    "runtime-main.js": "/votapp-frontend/static/js/runtime-main.5dabfedc.js",
-    "runtime-main.js.map": "/votapp-frontend/static/js/runtime-main.5dabfedc.js.map",
-    "static/js/2.f244efec.chunk.js": "/votapp-frontend/static/js/2.f244efec.chunk.js",
-    "static/js/2.f244efec.chunk.js.map": "/votapp-frontend/static/js/2.f244efec.chunk.js.map",
-    "index.html": "/votapp-frontend/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/votapp-frontend/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.f244efec.chunk.js.LICENSE.txt": "/votapp-frontend/static/js/2.f244efec.chunk.js.LICENSE.txt"
+    "main.css": "/votapp/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/votapp/static/js/main.9bd10ebf.chunk.js",
+    "main.js.map": "/votapp/static/js/main.9bd10ebf.chunk.js.map",
+    "runtime-main.js": "/votapp/static/js/runtime-main.06a858a0.js",
+    "runtime-main.js.map": "/votapp/static/js/runtime-main.06a858a0.js.map",
+    "static/js/2.2a7d0836.chunk.js": "/votapp/static/js/2.2a7d0836.chunk.js",
+    "static/js/2.2a7d0836.chunk.js.map": "/votapp/static/js/2.2a7d0836.chunk.js.map",
+    "index.html": "/votapp/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/votapp/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.2a7d0836.chunk.js.LICENSE.txt": "/votapp/static/js/2.2a7d0836.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dabfedc.js",
-    "static/js/2.f244efec.chunk.js",
+    "static/js/runtime-main.06a858a0.js",
+    "static/js/2.2a7d0836.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
     "static/js/main.9bd10ebf.chunk.js"
   ]
