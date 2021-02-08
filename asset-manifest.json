@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/votapp-frontend/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/votapp-frontend/static/js/main.00e053e8.chunk.js",
-    "main.js.map": "/votapp-frontend/static/js/main.00e053e8.chunk.js.map",
+    "main.js": "/votapp-frontend/static/js/main.9bd10ebf.chunk.js",
+    "main.js.map": "/votapp-frontend/static/js/main.9bd10ebf.chunk.js.map",
     "runtime-main.js": "/votapp-frontend/static/js/runtime-main.5dabfedc.js",
     "runtime-main.js.map": "/votapp-frontend/static/js/runtime-main.5dabfedc.js.map",
     "static/js/2.f244efec.chunk.js": "/votapp-frontend/static/js/2.f244efec.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5dabfedc.js",
     "static/js/2.f244efec.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.00e053e8.chunk.js"
+    "static/js/main.9bd10ebf.chunk.js"
   ]
 }
