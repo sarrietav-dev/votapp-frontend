@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/votapp/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/votapp/static/js/main.61115755.chunk.js",
-    "main.js.map": "/votapp/static/js/main.61115755.chunk.js.map",
+    "main.js": "/votapp/static/js/main.7b1996f9.chunk.js",
+    "main.js.map": "/votapp/static/js/main.7b1996f9.chunk.js.map",
     "runtime-main.js": "/votapp/static/js/runtime-main.06a858a0.js",
     "runtime-main.js.map": "/votapp/static/js/runtime-main.06a858a0.js.map",
-    "static/js/2.b215e368.chunk.js": "/votapp/static/js/2.b215e368.chunk.js",
-    "static/js/2.b215e368.chunk.js.map": "/votapp/static/js/2.b215e368.chunk.js.map",
+    "static/js/2.42db6caa.chunk.js": "/votapp/static/js/2.42db6caa.chunk.js",
+    "static/js/2.42db6caa.chunk.js.map": "/votapp/static/js/2.42db6caa.chunk.js.map",
     "index.html": "/votapp/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/votapp/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.b215e368.chunk.js.LICENSE.txt": "/votapp/static/js/2.b215e368.chunk.js.LICENSE.txt"
+    "static/js/2.42db6caa.chunk.js.LICENSE.txt": "/votapp/static/js/2.42db6caa.chunk.js.LICENSE.txt",
+    "static/media/Votapp.30af7bf4.png": "/votapp/static/media/Votapp.30af7bf4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.06a858a0.js",
-    "static/js/2.b215e368.chunk.js",
+    "static/js/2.42db6caa.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.61115755.chunk.js"
+    "static/js/main.7b1996f9.chunk.js"
   ]
 }
